@@ -1,3 +1,4 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://study-pack-generator.streamlit.app/)
 # 📚 AI Study Pack Generator
 
 A multi-stage AI workflow that turns a topic, skill level, duration, and learning goals into a complete study pack — plan, explanations, quiz, review, and refinement.
@@ -5,7 +6,13 @@ A multi-stage AI workflow that turns a topic, skill level, duration, and learnin
 Built with **Streamlit** for the UI and **Groq** (`openai/gpt-oss-120b`) for the LLM.
 
 ---
+## 🌐 Live Demo
 
+**Try it now:** [study-pack-generator.streamlit.app](https://study-pack-generator.streamlit.app/)
+
+No installation required — enter a topic, pick a skill level, and generate a full study pack in under two minutes.
+
+---
 ## ✨ What It Does
 
 Enter five inputs and get back a full study pack:
